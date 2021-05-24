@@ -2,19 +2,26 @@
 Python program to extract .pdf / .docx data and insert records into SQL Server for analysis 
 
 # Usage
-```
-1. open parser.iypnb in any jypyter notebook software
 
+1. open parser.iypnb in any jypyter notebook software
+```
 - Visual Studio Code jypyter notebook was used to produce output as shown
 (can run in cloud up to you)
 
+```
 2. you might want to adjust SQL connection string to your database model
+```
 (default is used {localhost} database)
-
+```
 3. Create a Database named CVs - - refer to figure 1
+```
+
 with the following design, scripts will be provided in SQL folder to create database and tables just run all queries in order.
 
+```
 4. edit cv.cvs file - refer to figure - 2
+```
+
 cv.cvs consists of the directories of the CVs, if you want to add CVs to process add the directory where the CV is by adding the path of it in a new line of cv.cvs
 
 example in cv.cvs - refer to figure - 3
@@ -37,8 +44,10 @@ paths[x] = paths[x].replace(os.sep,posixpath.sep)
 
 if you having problem in linux
 then you refer to block [9] and append the paths to fit your directory paths
-
+```
 5. run all blocks
+```
+
 ```
 
 # Figures
