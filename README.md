@@ -46,9 +46,7 @@ if you having problem in linux
 then you refer to block [9] and append the paths to fit your directory paths
 ```
 5. run all blocks
-```
 
-```
 
 # Figures
 1. Figure [1]
