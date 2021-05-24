@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/pythonlogo.png" width=50 height=50>
-<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/vslogo.png" width=50 height=50>
-
 # ADG PYTHON CV PARSER using ML
 Python program to extract .pdf / .docx data and insert records into SQL Server for analysis 
+
+<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/pythonlogo.png" width=50 height=50>
+<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/vslogo.png" width=50 height=50>
 
 # Usage
 
