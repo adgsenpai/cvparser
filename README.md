@@ -50,7 +50,7 @@ then you refer to block [9] and append the paths to fit your directory paths
 
 # Figures
 1. Figure [1]
-<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/fig%201.PNG" width="250" height="250">
+<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/fig%201.PNG" width="500" height="250">
 
 2. Figure [2]
-<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/fig%202.PNG" width="250" height="250">
+<img src="https://raw.githubusercontent.com/ADGVLOGS/cvparser/main/fig%202.PNG" width="500" height="250">
