@@ -24,7 +24,7 @@ with the following design, scripts will be provided in SQL folder to create data
 
 cv.cvs consists of the directories of the CVs, if you want to add CVs to process add the directory where the CV is by adding the path of it in a new line of cv.cvs
 
-example in cv.cvs - refer to figure - 3
+example in cv.cvs - refer to figure - 2
 ([x] is denoted as a line in cv.cvs do not type the brackets and line number in the file)
 
 [1] C:\Users\Ashlin Darius G\Desktop\CVs\abc.pdf
@@ -57,8 +57,3 @@ then you refer to block [9] and append the paths to fit your directory paths
 ```
 
 ```
-3. Figure [3]
-```
-
-```
- 
